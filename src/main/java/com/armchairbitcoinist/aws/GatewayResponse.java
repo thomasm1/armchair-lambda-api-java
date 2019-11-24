@@ -8,6 +8,13 @@ public class GatewayResponse {
     private Map<String, String> headers;
     private boolean isBase64Encoded;
 
+    public GatewayResponse(String body, Integer statusCode, Map<String, String> headers, boolean isBase64Encoded) {
+        this.body = body;
+        this.statusCode = statusCode;
+        this.headers = headers;
+        this.isBase64Encoded = isBase64Encoded;
+    }
+
     public String getBody() {
         return body;
     }

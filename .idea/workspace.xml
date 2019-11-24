@@ -13,6 +13,7 @@
       <change afterPath="C:/$Recycle.Bin/S-1-5-21-2688146319-3121754227-2415775530-1001/$RQMW74O/grunt-legacy-util/.idea/grunt-legacy-util.iml" afterDir="false" />
       <change afterPath="C:/$Recycle.Bin/S-1-5-21-2688146319-3121754227-2415775530-1001/$RQMW74O/tiny-lr/.idea/tiny-lr.iml" afterDir="false" />
       <change afterPath="C:/DownloadsLinux/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="C:/Program Files/MongoDB/Server/4.0/data/diagnostic.data/metrics.interim" afterDir="false" />
       <change afterPath="C:/Program Files/nodejs_NEWTEMP/node_modules/npm/node_modules/clone/clone.iml" afterDir="false" />
       <change afterPath="$USER_HOME$/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.3.2.201909061612/language-servers/node_modules/clone/clone.iml" afterDir="false" />
       <change afterPath="$USER_HOME$/.vscode-insiders/extensions/donjayamanne.githistory-0.4.6/node_modules/applicationinsights/AppInsights-node.js.iml" afterDir="false" />
@@ -64,7 +65,7 @@
       <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/armchairbitcoinist/aws/LambdaJavaAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/armchairbitcoinist/aws/GatewayResponse.java" afterDir="false" />
       <change beforePath="C:/.gitignore" beforeDir="false" />
       <change beforePath="C:/ApplicationInsights.config" beforeDir="false" />
       <change beforePath="C:/LICENSE" beforeDir="false" />
@@ -137,6 +138,10 @@
       <change beforePath="C:/src/systemjs.config.js" beforeDir="false" />
       <change beforePath="C:/src/tsconfig.json" beforeDir="false" />
       <change beforePath="C:/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/armchairbitcoinist/aws/GatewayResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/armchairbitcoinist/aws/GatewayResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/armchairbitcoinist/aws/LambdaJavaAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/armchairbitcoinist/aws/LambdaJavaAPI.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -155,7 +160,10 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="C:/" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
   </component>
   <component name="ProjectId" id="1U2Tf7eyVlCioWuEFs9ajBM6PO6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
