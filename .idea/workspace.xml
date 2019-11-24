@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ca692ef-c034-47dd-a40c-934ce6a4ccd2" name="Default Changelist" comment="">
+      <change afterPath="C:/$Recycle.Bin/S-1-5-21-2688146319-3121754227-2415775530-1001/$R2WMFJT/node_modules/grunt-legacy-log/.idea/grunt-legacy-log.iml" afterDir="false" />
+      <change afterPath="C:/$Recycle.Bin/S-1-5-21-2688146319-3121754227-2415775530-1001/$R2WMFJT/node_modules/tiny-lr/.idea/tiny-lr.iml" afterDir="false" />
+      <change afterPath="C:/$Recycle.Bin/S-1-5-21-2688146319-3121754227-2415775530-1001/$RJUJ84D/blob/.idea/blob.iml" afterDir="false" />
+      <change afterPath="C:/$Recycle.Bin/S-1-5-21-2688146319-3121754227-2415775530-1001/$RJUJ84D/grunt-legacy-log/.idea/grunt-legacy-log.iml" afterDir="false" />
+      <change afterPath="C:/$Recycle.Bin/S-1-5-21-2688146319-3121754227-2415775530-1001/$RJUJ84D/grunt-legacy-util/.idea/grunt-legacy-util.iml" afterDir="false" />
+      <change afterPath="C:/$Recycle.Bin/S-1-5-21-2688146319-3121754227-2415775530-1001/$RJUJ84D/tiny-lr/.idea/tiny-lr.iml" afterDir="false" />
+      <change afterPath="C:/$Recycle.Bin/S-1-5-21-2688146319-3121754227-2415775530-1001/$RQMW74O/blob/.idea/blob.iml" afterDir="false" />
+      <change afterPath="C:/$Recycle.Bin/S-1-5-21-2688146319-3121754227-2415775530-1001/$RQMW74O/grunt-legacy-log/.idea/grunt-legacy-log.iml" afterDir="false" />
+      <change afterPath="C:/$Recycle.Bin/S-1-5-21-2688146319-3121754227-2415775530-1001/$RQMW74O/grunt-legacy-util/.idea/grunt-legacy-util.iml" afterDir="false" />
+      <change afterPath="C:/$Recycle.Bin/S-1-5-21-2688146319-3121754227-2415775530-1001/$RQMW74O/tiny-lr/.idea/tiny-lr.iml" afterDir="false" />
+      <change afterPath="C:/DownloadsLinux/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="C:/Program Files/nodejs_NEWTEMP/node_modules/npm/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.3.2.201909061612/language-servers/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/.vscode-insiders/extensions/donjayamanne.githistory-0.4.6/node_modules/applicationinsights/AppInsights-node.js.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/.vscode-insiders/extensions/donjayamanne.githistory-0.4.6/node_modules/gulp-remote-src-vscode/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/.vscode-insiders/extensions/donjayamanne.githistory-0.4.6/node_modules/gulp-sourcemaps/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/.vscode-insiders/extensions/donjayamanne.githistory-0.4.6/node_modules/gulp-untar/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/.vscode-insiders/extensions/donjayamanne.githistory-0.4.6/node_modules/gulp-vinyl-zip/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/.vscode-insiders/extensions/donjayamanne.githistory-0.4.6/node_modules/vinyl-fs/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/.vscode-insiders/extensions/donjayamanne.githistory-0.4.6/node_modules/vinyl-sourcemap/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/.vscode/extensions/alexandersage.angular1-code-snippets-0.0.3/.idea/vscode-angular1-snippets.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/.vscode/extensions/donjayamanne.githistory-0.4.6/node_modules/applicationinsights/AppInsights-node.js.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/.vscode/extensions/donjayamanne.githistory-0.4.6/node_modules/gulp-remote-src-vscode/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/.vscode/extensions/donjayamanne.githistory-0.4.6/node_modules/gulp-sourcemaps/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/.vscode/extensions/donjayamanne.githistory-0.4.6/node_modules/gulp-untar/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/.vscode/extensions/donjayamanne.githistory-0.4.6/node_modules/gulp-vinyl-zip/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/.vscode/extensions/donjayamanne.githistory-0.4.6/node_modules/vinyl-fs/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/.vscode/extensions/donjayamanne.githistory-0.4.6/node_modules/vinyl-sourcemap/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/.vscode/extensions/samuelcolvin.jinjahtml-0.10.6/.idea/jinjahtml.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/AppData/Local/Yarn/cache/v1/npm-ansi-html-0.0.5-0dcaa5a081206866bc240a3b773a184ea3b88b64/.idea/ansi-html.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/AppData/Local/Yarn/cache/v1/npm-app-root-path-2.0.1-cd62dcf8e4fd5a417efc664d2e5b10653c651b46/.idea/node-app-root-path.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/AppData/Local/Yarn/cache/v1/npm-babel-preset-env-1.6.1-a18b564cc9b9afdf4aae57ae3c1b0d99188e6f48/.idea/babel-preset-env.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/AppData/Local/Yarn/cache/v1/npm-bowser-1.8.1-49785777e7302febadb1a5b71d9a646520ed310d/.idea/bowser.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/AppData/Local/Yarn/cache/v1/npm-bowser-1.9.0-c5015128dcf155b4e3d11d1ab46b7a4b6ee695b8/.idea/bowser.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/AppData/Local/Yarn/cache/v1/npm-bowser-1.9.1-f86ef2132e8cb10b3eb6ea5af018758c587020db/.idea/bowser.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitcoinBuyer2-reactTracker/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitcoinBuyer2-reactTracker/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitcoinBuyer2-reactTracker/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitcoinBuyer2-reactTracker/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitcoinBuyer2-reactTracker/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitcoinBuyer2-reactTracker/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitcoinBuyer2-reactTracker/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitcoinBuyer2-reactTracker/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitcoinBuyer2-reactTracker/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitcoinBuyer2-reactTracker/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitcoinBuyer2-reactTracker/src/components/AddCoin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitcoinBuyer2-reactTracker/src/components/CoinTracker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitcoinBuyer2-reactTracker/src/components/CoinTracker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitcoinBuyer2-reactTracker/src/components/Trackers.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitcoinBuyer2-reactTracker/src/components/Trackers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitcoinBuyer2-reactTracker/src/components/TrackersAPI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitcoinBuyer2-reactTracker/src/components/layout/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitcoinBuyer2-reactTracker/src/components/pages/About.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitcoinBuyer2-reactTracker/src/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitcoinBuyer2-reactTracker/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitcoinBuyer2-reactTracker/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitcoinBuyer2-reactTracker/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/armchairbitcoinist/aws/LambdaJavaAPI.java" afterDir="false" />
+      <change beforePath="C:/.gitignore" beforeDir="false" />
+      <change beforePath="C:/ApplicationInsights.config" beforeDir="false" />
+      <change beforePath="C:/LICENSE" beforeDir="false" />
+      <change beforePath="C:/NgAppTm.csproj" beforeDir="false" />
+      <change beforePath="C:/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="C:/README.md" beforeDir="false" />
+      <change beforePath="C:/Web.Debug.config" beforeDir="false" />
+      <change beforePath="C:/Web.Release.config" beforeDir="false" />
+      <change beforePath="C:/Web.config" beforeDir="false" />
+      <change beforePath="C:/bin/ApplicationInsights.config" beforeDir="false" />
+      <change beforePath="C:/bin/Microsoft.AI.DependencyCollector.xml" beforeDir="false" />
+      <change beforePath="C:/bin/Microsoft.AI.ServerTelemetryChannel.xml" beforeDir="false" />
+      <change beforePath="C:/bin/Microsoft.AI.Web.xml" beforeDir="false" />
+      <change beforePath="C:/bin/Microsoft.AI.WindowsServer.xml" beforeDir="false" />
+      <change beforePath="C:/bin/Microsoft.ApplicationInsights.xml" beforeDir="false" />
+      <change beforePath="C:/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" beforeDir="false" />
+      <change beforePath="C:/bin/NgAppTm.dll.config" beforeDir="false" />
+      <change beforePath="C:/bin/roslyn/Microsoft.CSharp.Core.targets" beforeDir="false" />
+      <change beforePath="C:/bin/roslyn/Microsoft.VisualBasic.Core.targets" beforeDir="false" />
+      <change beforePath="C:/bin/roslyn/VBCSCompiler.exe.config" beforeDir="false" />
+      <change beforePath="C:/bs-config.json" beforeDir="false" />
+      <change beforePath="C:/obj/Debug/NgAppTm.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="C:/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" beforeDir="false" />
+      <change beforePath="C:/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" beforeDir="false" />
+      <change beforePath="C:/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" beforeDir="false" />
+      <change beforePath="C:/obj/Debug/Tsc97b2dec3.out" beforeDir="false" />
+      <change beforePath="C:/obj/Debug/Tsceac9799f.out" beforeDir="false" />
+      <change beforePath="C:/package-lock.json" beforeDir="false" />
+      <change beforePath="C:/package.json" beforeDir="false" />
+      <change beforePath="C:/packages.config" beforeDir="false" />
+      <change beforePath="C:/scripts/ai.0.22.9-build00167.js" beforeDir="false" />
+      <change beforePath="C:/scripts/ai.0.22.9-build00167.min.js" beforeDir="false" />
+      <change beforePath="C:/src/app/app.component.js" beforeDir="false" />
+      <change beforePath="C:/src/app/app.component.js.map" beforeDir="false" />
+      <change beforePath="C:/src/app/app.component.spec.js" beforeDir="false" />
+      <change beforePath="C:/src/app/app.component.spec.js.map" beforeDir="false" />
+      <change beforePath="C:/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="C:/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="C:/src/app/app.module.js" beforeDir="false" />
+      <change beforePath="C:/src/app/app.module.js.map" beforeDir="false" />
+      <change beforePath="C:/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="C:/src/app/employee/employee.Title.pipe.js" beforeDir="false" />
+      <change beforePath="C:/src/app/employee/employee.Title.pipe.js.map" beforeDir="false" />
+      <change beforePath="C:/src/app/employee/employee.component.css" beforeDir="false" />
+      <change beforePath="C:/src/app/employee/employee.component.html" beforeDir="false" />
+      <change beforePath="C:/src/app/employee/employee.component.js" beforeDir="false" />
+      <change beforePath="C:/src/app/employee/employee.component.js.map" beforeDir="false" />
+      <change beforePath="C:/src/app/employee/employee.component.ts" beforeDir="false" />
+      <change beforePath="C:/src/app/employee/employeeCount.component.css" beforeDir="false" />
+      <change beforePath="C:/src/app/employee/employeeCount.component.html" beforeDir="false" />
+      <change beforePath="C:/src/app/employee/employeeCount.component.js" beforeDir="false" />
+      <change beforePath="C:/src/app/employee/employeeCount.component.js.map" beforeDir="false" />
+      <change beforePath="C:/src/app/employee/employeeCount.component.ts" beforeDir="false" />
+      <change beforePath="C:/src/app/employee/employeeList.component.css" beforeDir="false" />
+      <change beforePath="C:/src/app/employee/employeeList.component.html" beforeDir="false" />
+      <change beforePath="C:/src/app/employee/employeeList.component.js" beforeDir="false" />
+      <change beforePath="C:/src/app/employee/employeeList.component.js.map" beforeDir="false" />
+      <change beforePath="C:/src/app/employee/employeeList.component.ts" beforeDir="false" />
+      <change beforePath="C:/src/app/employee/employeeTitle.pipe.js" beforeDir="false" />
+      <change beforePath="C:/src/app/employee/employeeTitle.pipe.js.map" beforeDir="false" />
+      <change beforePath="C:/src/app/employee/employeeTitle.pipe.ts" beforeDir="false" />
+      <change beforePath="C:/src/favicon.ico" beforeDir="false" />
+      <change beforePath="C:/src/index.html" beforeDir="false" />
+      <change beforePath="C:/src/main.js" beforeDir="false" />
+      <change beforePath="C:/src/main.js.map" beforeDir="false" />
+      <change beforePath="C:/src/main.ts" beforeDir="false" />
+      <change beforePath="C:/src/styles.css" beforeDir="false" />
+      <change beforePath="C:/src/systemjs-angular-loader.js" beforeDir="false" />
+      <change beforePath="C:/src/systemjs.config.extras.js" beforeDir="false" />
+      <change beforePath="C:/src/systemjs.config.js" beforeDir="false" />
+      <change beforePath="C:/src/tsconfig.json" beforeDir="false" />
+      <change beforePath="C:/tslint.json" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="C:/" />
+  </component>
+  <component name="ProjectId" id="1U2Tf7eyVlCioWuEFs9ajBM6PO6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.armchairbitcoinist.aws" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ca692ef-c034-47dd-a40c-934ce6a4ccd2" name="Default Changelist" comment="" />
+      <created>1574553791128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574553791128</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
